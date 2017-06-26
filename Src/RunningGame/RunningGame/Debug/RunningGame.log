@@ -1,0 +1,6 @@
+﻿  App.cpp
+e:\내 파일\크몽\runninggame\runninggame\app.cpp(17): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  Program.cpp
+  RunningGame.vcxproj -> E:\내 파일\크몽\RunningGame\Debug\RunningGame.exe
